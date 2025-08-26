@@ -9,7 +9,7 @@
 /* (B) QUESTION */
 #quizQn {
   padding: 20px;
-  background: linear-gradient(135deg, #5454f5, #7b71f2);
+  background: linear-gradient(135deg, #54b7f5, #26a9d8);
   color: #fff;
   font-size: 26px;
   border-radius: 12px;
@@ -25,7 +25,7 @@
 }
 #quizAns input[type=radio] { display: none; }
 #quizAns label {
-  background: linear-gradient(to right, #5454f5, #7b71f2);
+  background: linear-gradient(to right, #54b7f5, #26a9d8);
   border: none;
   border-radius: 12px;
   padding: 15px;
