@@ -9,7 +9,7 @@
 /* (B) QUESTION */
 #quizQn {
   padding: 20px;
-  background: linear-gradient(135deg, #eaf703, #aaae41);
+  background: linear-gradient(135deg, #5454f5, #7b71f2);
   color: #fff;
   font-size: 26px;
   border-radius: 12px;
@@ -25,7 +25,7 @@
 }
 #quizAns input[type=radio] { display: none; }
 #quizAns label {
-  background: linear-gradient(to right, #cfe085, #c2dc17);
+  background: linear-gradient(to right, #5454f5, #7b71f2);
   border: none;
   border-radius: 12px;
   padding: 15px;
@@ -60,7 +60,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url(https://images.pexels.com/photos/6250940/pexels-photo-6250940.jpeg);
+  background-image: url(https://images.pexels.com/photos/11543929/pexels-photo-11543929.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -82,6 +82,7 @@ body {
 #code-boxx {
   font-weight: 600;
   margin-top: 30px;
+  color: whitesmoke;
 }
 #code-boxx a {
   display: inline-block;
@@ -94,4 +95,7 @@ body {
 }
 #code-boxx a:hover {
   background: #ff4e4e;
+}
+h1{
+  color:whitesmoke ;
 }
